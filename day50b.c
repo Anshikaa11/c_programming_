@@ -1,5 +1,3 @@
-// Print all sub-strings of a string.
-
 #include <stdio.h>
 #include <string.h>
 
